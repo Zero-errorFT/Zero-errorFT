@@ -43,16 +43,15 @@
 
 ### 🏆 Achievements
 
-- 🥉 **3rd Place** — Smart India Hackathon (SIH)
-- 🥉 **3rd Place** — Internal Hackathons
+- 🥉 **3rd Place** — Smart India Hackathon(Internal round) (SIH)
+- 🥇 **1st Place** — Internal Hackathons
 - 🎖️ Student Ambassador
 - 🏀 Active basketball player
 
 ---
 
 ### 🤝 Leadership & Involvement
-
-- **Team Lead** — Advanced IoT + Cybersecurity Integration Project (final project selection)
+- **Student Life Associate** 
 - **Merchandise Lead** — University Homecoming Event (Finance Committee)
 - **Finance Lead** — Anime & Manga Club
 - Volunteer coordination, event logistics, budgeting, and cross-team communication
