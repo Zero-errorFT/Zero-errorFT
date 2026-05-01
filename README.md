@@ -7,10 +7,11 @@
 
 ---
 
-###  About Me
+### About Me
 
+- 🎓 B.Tech CSE (Cybersecurity) — GITAM University Bangalore
 - 🔭 Currently building **CANARY** — a real-time Intrusion Detection System
-- 🧠 Exploring ML-powered threat analysis and network security
+- 🧠 Exploring ML-powered threat analysis, network security, and IoT defense
 - 🎯 Focused on: `Ethical Hacking` · `Penetration Testing` · `AI Security`
 - 📍 Open to collaborations on cybersecurity & open source projects
 
@@ -32,9 +33,29 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+### 🏆 Achievements
+
+- 🥉 **3rd Place** — Smart India Hackathon (SIH)
+- 🥉 **3rd Place** — Internal Hackathons
+- 🎖️ Student Ambassador
+- 🏀 Active basketball player
+
+---
+
+### 🤝 Leadership & Involvement
+
+- **Team Lead** — Advanced IoT + Cybersecurity Integration Project (final project selection)
+- **Merchandise Lead** — University Homecoming Event (Finance Committee)
+- **Finance Lead** — Anime & Manga Club
+- Volunteer coordination, event logistics, budgeting, and cross-team communication
 
 ---
 
@@ -47,7 +68,12 @@
 
 ---
 
+### 💡 Philosophy
+
+> *Zero represents both the beginning and the end. Build from fundamentals. Understand systems from the inside before trying to secure them.*
+
+---
+
 ### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srishtisucklecha)
-
