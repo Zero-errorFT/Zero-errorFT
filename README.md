@@ -7,7 +7,7 @@
 
 ---
 
-### 🛡️ About Me
+###  About Me
 
 - 🔭 Currently building **CANARY** — a real-time Intrusion Detection System
 - 🧠 Exploring ML-powered threat analysis and network security
@@ -49,5 +49,5 @@
 
 ### 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srishtisucklecha)
+
