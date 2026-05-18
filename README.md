@@ -1,78 +1,105 @@
-<h1 align="center">Hey, I'm Srishti 👋</h1>
-<h3 align="center">Cybersecurity Student · Ethical Hacker · Builder of Security Tools</h3>
+<h1 align="center">
+  <img src="https://herokuapp.com" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Ethical+Hacker+in+Training;IDS+%7C+Phishing+Detection+%7C+Deepfake+AI;Breaking+things+to+fix+them+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://herokuapp.com" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/srishtisucklecha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Zero-errorFT"><img src="https://shields.io" alt="GitHub"/></a>
 </p>
 
 ---
 
-### About Me
+### 📥 System Terminal: About Me
 
-- 🎓 B.Tech CSE (Cybersecurity) — GITAM University Bangalore
-- 🔭 Currently building **CANARY** — a real-time Intrusion Detection System
-- 🧠 Exploring ML-powered threat analysis, network security, and IoT defense
-- 🎯 Focused on: `Ethical Hacking` · `Penetration Testing` · `AI Security`
-- 📍 Open to collaborations on cybersecurity & open source projects
+```⚙️ Security Profile Loaded Successfully...
+[+] Focus: Ethical Hacking | Penetration Testing | AI-Driven Security Solutions
+[+] Affiliation: B.Tech CSE (Cybersecurity) — GITAM University Bangalore
+[+] Mindset: Build from fundamentals. Defend using intelligence.
+```
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [🔴 CANARY IDS](https://github.com/Zero-errorFT/IDS) | Real-time IDS monitoring network & CAN bus traffic with ML |
-| [🛡️ Kavach](https://github.com/Zero-errorFT/Kavach) | AI-powered social engineering defense — voice, URL, QR, deepfake |
-| [👗 AURA](https://github.com/Zero-errorFT/AURA-PERSONAL-STYLING-DIGITAL-WARDROBE-PLATFORM) | AI personal styling & digital wardrobe platform |
-| [🎣 Phishing Detector](https://github.com/Zero-errorFT/Phishing-Detector) | ML-based phishing URL detection |
+- 🔭 **Active Mission:** Engineering **CANARY** — a sub-5ms dual-model Machine Learning Intrusion Detection System.
+- 🧠 **Research Core:** Exploring multi-modal deepfake defenses, real-time audio analysis pipelines, and hardware-level network exploitation.
+- 📍 **Status:** Open to collaboration on cutting-edge open-source cybersecurity frameworks and advanced malware/anomaly analysis tools.
 
 ---
 
-### 🧰 Tech Stack
+### 🚀 Highlighted Security Systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
----
-
-### 🏆 Achievements
-
-- 🥉 **3rd Place** — Smart India Hackathon(Internal round) (SIH)
-- 🥇 **1st Place** — Internal Hackathons
-- 🎖️ Student Ambassador
-- 🏀 Active basketball player
+| Core Directive | System Name & Repository Architecture | Tactical Capability |
+| :--- | :--- | :--- |
+| `NETWORK IDS` | [🔴 CANARY IDS](https://github.com/Zero-errorFT/IDS) | Real-time hybrid ML Intrusion Detection System for CAN bus & network traffic using Random Forest + Isolation Forest. |
+| `ANTI-FRAUD AI` | [🛡️ Kavach](https://github.com/Zero-errorFT/Kavach) | Multi-modal social engineering defense platform screening voice (Whisper), URLs, screenshots, and deepfakes (LLaMA Vision). |
+| `BEHAVIORAL AI`| [👗 AURA](https://github.com/Zero-errorFT/AURA-PERSONAL-STYLING-DIGITAL-WARDROBE-PLATFORM) | Intelligent companion digital wardrobe system designed to optimize profiling data and eliminate user decision fatigue. |
+| `RECON & INTEL` | [🎣 Phishing Detector](https://github.com/Zero-errorFT/Phishing-Detector) | ML-driven feature analysis model targeted at classifying and detecting weaponized phishing hyperlinks. |
 
 ---
 
-### 🤝 Leadership & Involvement
-- **Student Life Associate** 
-- **Merchandise Lead** — University Homecoming Event (Finance Committee)
-- **Finance Lead** — Anime & Manga Club
-- Volunteer coordination, event logistics, budgeting, and cross-team communication
+### 🧰 Arsenal & Frameworks
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33.3%" valign="top">
+      <h4>💻 Languages</h4>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" />
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>🎯 Security Engineering</h4>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" />
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>🧠 Machine Learning & Data</h4>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Operational Accomplishments & Hackathons
+
+- 🥉 **3rd Place Finish** — Smart India Hackathon (Internal Round) | Focused on hardware-software architecture integration.
+- 🥇 **1st Place Finish** — Internal University Hackathon Sprint Challenges.
+- 🎖️ **Student Ambassador** — Selected university representative driving campus community promotion and engagement.
+- 🏀 **Athletics:** Active competitive basketball squad competitor.
+
+---
+
+### 👥 Leadership & Campus Integration
+
+- **Student Life Associate:** Overseeing institutional multi-team task workflows, event logistics, and administrative communications.
+- **Merchandise Lead (Finance Committee):** Directed cost analysis, vendor communication networks, and budget coordination for University Homecoming.
+- **Finance Lead (Anime & Manga Club):** Managing club asset allocation, financial accounting logs, and cross-team resource funding.
+
+---
+
+### 📊 Network Metrics (GitHub Analytics)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zero-errorFT&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zero-errorFT&theme=chartreuse-dark&hide_border=true" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://herokuapp.com" width="48%" />
 </p>
 
 ---
 
-### 💡 Philosophy
-
-> *Zero represents both the beginning and the end. Build from fundamentals. Understand systems from the inside before trying to secure them.*
+### 💡 Core Engineering Philosophy
+> *“Zero represents both the beginning and the end. Build from fundamentals. Understand systems from the inside out before attempting to defend them.”*
 
 ---
-
-### 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srishtisucklecha)
+<p align="center">🛡️ Created by <b>Srishti Sucklecha</b> | Secure the Loop 🛠️</p>
